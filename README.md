@@ -4,13 +4,16 @@
 
 
 This Flutter project showcases a modern **Light & Dark mode switching interface** using clean architecture and theming principles. The app is modular, scalable, and designed with performance and readability in mind.
+## 📱 Screenshots
+| Light Mode | Dark Mode |
+|------------|-----------|
 
 <img width="669" height="900" alt="profile_antr" src="https://github.com/user-attachments/assets/fab36218-8fe3-4051-b9f8-8ec58a9592cf" />
 
 ## 📱 Screenshots
 | Light Mode | Dark Mode |
 |------------|-----------|
-<img width="669" height="900" alt="profile_antr" src="https://github.com/user-attachments/assets/6f82cb90-28a1-4913-8ade-76389669a3bf" />
+
 
 ---
 
