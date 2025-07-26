@@ -1,13 +1,11 @@
 
-<img width="669" height="900" alt="profile_antr" src="https://github.com/user-attachments/assets/fab36218-8fe3-4051-b9f8-8ec58a9592cf" />
-
-```markdown
+ر```markdown
 # 🌓 Flutter Light & Dark Theme UI App
 
 
 This Flutter project showcases a modern **Light & Dark mode switching interface** using clean architecture and theming principles. The app is modular, scalable, and designed with performance and readability in mind.
 
----
+<img width="669" height="900" alt="profile_antr" src="https://github.com/user-attachments/assets/fab36218-8fe3-4051-b9f8-8ec58a9592cf" />
 
 ## 📱 Screenshots
 | Light Mode | Dark Mode |
