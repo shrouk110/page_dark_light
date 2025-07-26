@@ -91,7 +91,7 @@ lib/
 ## 🙋‍♀️ Author
 
 **Shrouk Nasser Ahmed**
-[GitHub](https://github.com/shrouk110) • [LinkedIn](#) • [Portfolio](#)
+[GitHub](https://github.com/shrouk110) 
 
 ---
 
