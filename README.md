@@ -9,8 +9,8 @@ This Flutter project showcases a modern **Light & Dark mode switching interface*
 ---
 
 ## 📱 Screenshots
-<img width="669" height="900" alt="profile_antr" src="https://github.com/user-attachments/assets/091a15df-eb7a-43e6-b7fd-88f749cbbc07" />
-<img width="668" height="901" alt="profile_anr2" src="https://github.com/user-attachments/assets/a91225da-2d31-41b7-a37a-e339c5c90ca3" />
+<img width="669" height="900" alt="profile_antr" src="https://github.com/user-attachments/assets/8c41627b-07e4-445b-a214-568b89c74fff" />
+
 
 | Light Mode | Dark Mode |
 |------------|-----------|
